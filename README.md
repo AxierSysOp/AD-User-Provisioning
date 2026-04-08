@@ -26,3 +26,9 @@ Este script de PowerShell ha sido diseñado para optimizar y automatizar la gest
 3. Ejecuta el script:
    ```powershell
    .\provision-users.ps1
+
+## Autor
+* **Axier Baez** - (https://github.com/AxierSysOp)
+
+## Licencia
+Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) para detalles.
