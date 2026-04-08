@@ -15,7 +15,7 @@
     Ejecuta el proceso utilizando las rutas configuradas por defecto en el script.
 
 .NOTES
-    Autor: Axier Banez - @AxierSysOp
+    Autor: Axier Baez - @AxierSysOp
     Version: 1.1
     Licencia: MIT (Uso libre y abierto).
     Aviso: Este script se proporciona "tal cual". Realiza cambios masivos en AD.
@@ -26,7 +26,7 @@
 Clear-Host
 Write-Host "===========================================================" -ForegroundColor Cyan
 Write-Host "      PROVISIONAMIENTO DE CUENTAS - ACTIVE DIRECTORY       " -ForegroundColor White
-Write-Host "       Desarrollado por: Axier Banez  (@AxierSysOp)        " -ForegroundColor Gray
+Write-Host "       Desarrollado por: Axier Baez  (@AxierSysOp)        " -ForegroundColor Gray
 Write-Host "===========================================================" -ForegroundColor Cyan
 Write-Host "AVISO: Use este script bajo su propia responsabilidad." -ForegroundColor Yellow
 Write-Host "Se recomienda una verificacion previa del archivo CSV." -ForegroundColor Yellow
