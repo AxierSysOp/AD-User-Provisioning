@@ -33,7 +33,7 @@ Write-Host "Se recomienda una verificacion previa del archivo CSV." -ForegroundC
 Write-Host ""
 
 # --- Configuracion de entorno ---
-$RutaCSV   = "C:\Temp\user-data-sample.csv"  
+$RutaCSV   = "C:\Temp\users-data-sample.csv"  
 $RutaOU    = "OU=Staging,OU=employees,OU=Corporate,DC=corp,DC=contoso,DC=com" 
 $SufijoUPN = "contoso.com"
 
